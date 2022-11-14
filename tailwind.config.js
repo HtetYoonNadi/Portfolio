@@ -2,8 +2,8 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: 'Playfair Display',
-      body: 'Work Sans',
+      primary: 'Red Hat Display',
+      body: 'Lato',
     },
     container: {
       padding: {
@@ -28,10 +28,10 @@ module.exports = {
       colors: {
         primary: '#fdfdfd',
         secondary: '#f0f0f0',
-        tertiary: '#482ff7',
+        tertiary: '#0054a6',
         accent: {
-          DEFAULT: '#faee1c',
-          hover: '#f3f169',
+          DEFAULT: '#2f89fc',
+          hover: '#2d6cdf',
         },
         paragraph: '#878e99',
       },
