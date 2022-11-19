@@ -26,7 +26,7 @@ module.exports = {
         contact: 'url("/src/assets/img/outline-text/contact.svg")',
       },
       colors: {
-        primary: '#fdfdfd',
+        primary: '#0054a6',
         secondary: '#f0f0f0',
         tertiary: '#0054a6',
         accent: {

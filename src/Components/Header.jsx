@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 //import components
-import Logo from "../assets/img/white logo.png";
+import Logo from "../assets/img/white-logo.png";
 import Nav from "./Nav";
 
 const Header = () => {
@@ -27,6 +27,10 @@ const Header = () => {
         <div className="hidden lg:block">
           <Nav />
         </div>
+        {/* Button */}
+        <button>
+          
+        </button>
       </div>     
     </header>
   );

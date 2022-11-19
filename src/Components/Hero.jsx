@@ -1,15 +1,15 @@
 import React from "react";
 
 //import image
+import img from "../assets/img/Logo.png";
 
 const Hero = () => {
   return (
     <section
-      id="home"
-      className="lg:h-[85vh] flex items-center bg-primary lg:bg-cover 
+      className="lg:h-[85vh] flex items-center bg-primary lg:bg-cover lg:bg-center
   lg:bg-no-repeat py-32 lg:py-0 overflow-hidden"
     >
-      Hero
+      <div className="container mx-auto">hero</div>
     </section>
   );
 };
